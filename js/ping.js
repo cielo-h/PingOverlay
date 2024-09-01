@@ -42,6 +42,7 @@ var vue = new Vue({
     latest: {
       Timestamp: 0,
       Address: "",
+      Update:"",
       Status: "",
       RTT: 0,
       TTL: 0,
