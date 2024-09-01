@@ -25,4 +25,4 @@ If useing One-Line Layout, recommend to use `avg` variable.
 - 何も付けなかった場合は `?avg=5,30,60` が指定されたと見なして表示されます。  
 If `avg` is not set, same as `?avg=5,30,60`.
 
-- [ping_oneline.html](ping_custom.html)
+- [ping_custom.html](ping_custom.html)
